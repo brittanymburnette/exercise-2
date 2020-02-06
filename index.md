@@ -32,7 +32,6 @@ table {border: 1px solid black;}
     <td><a href="http://www.golang.org">golang.org</a></td>
 </tr> 
 <tr>
-
     <td>PHP</td>
     <td>7.1.20</td>
     <td><a href="http://www.php.net">php.net</a></td>
